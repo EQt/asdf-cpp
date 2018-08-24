@@ -1,7 +1,5 @@
 #pragma once
 
-#include <yaml-cpp/yaml.h>
-
 #include "asdffile.hpp"
 #include "compression.hpp"
 #include "tags/ndarray.hpp"
